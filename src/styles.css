@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/*@theme {
+  --font-family-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+} 
+
+/* Optional: any custom CSS */
+
+/* src/index.css - Tailwind entry (if using Tailwind) */
+/*@tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* small extras (optional) */
+html, body, #root {
+  height: 100%;
+}
